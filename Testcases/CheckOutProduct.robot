@@ -29,4 +29,3 @@ LoginTest
     Click on continue button
     Click on Fisnish button
     Verify Order Successful Message
-
